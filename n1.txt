@@ -1,1 +1,4 @@
 print("Namaskar")
+print("hi")
+print("hello")
+print("byee")
